@@ -7,4 +7,4 @@ Textbook:
  
   
    
--This repo is for all of my old C++ computer grphics projects. I used a Linux computer and the textbook listed above.
+-This repo is for all of my old C++ computer graphics projects. I used a Linux computer and the textbook listed above.
